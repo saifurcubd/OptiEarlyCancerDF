@@ -1,2 +1,2 @@
-# BiDiEarlyCancerDF
-Bio-Digital Early Cancer Detection Framework using optimized learing from liquid biopsy data
+# EarlyCancerDLB
+EarlyCancerDLB: Early Cancer Detection Framework using Ensemble OptimizedLearning from Non-invasive Liquid Biopsy
