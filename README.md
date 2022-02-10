@@ -1,2 +1,2 @@
 # EarlyCancerDLB
-EarlyCancerDLB: Early Cancer Detection Framework using Ensemble OptimizedLearning from Non-invasive Liquid Biopsy
+OptiEarlyCancerDF: optimized early cancer detection framework using cell-free DNA fragmentation and circulating biomarkers through non-invasive liquid biopsy
